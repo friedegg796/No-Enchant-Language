@@ -1,7 +1,7 @@
 {
     "pack": {
         "pack_format": 1,
-        "description": "Resourcepack template, more information can be found at https://minecraft.wiki/w/Tutorial:Creating_a_resource_pack",
+        "description": "Remove the Enchanting Table Language (Standard Galatic Alphabet)",
         "supported_formats":
         {
          "min_inclusive": 1,
