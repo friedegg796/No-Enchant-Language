@@ -1,5 +1,0 @@
-This is from Resourcepack Template!
-To modify this file, delete the old text!
-Add new text each line!
-Each new text is a new splash!
-
