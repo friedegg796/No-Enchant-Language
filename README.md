@@ -4,7 +4,7 @@
 
 _This image has an affiliate link, aka I can get a commission (MONEY for me at no expense to you) if you purchase through this link. So if you wanna support me, and get a neat little server for Minecraft, click the image!_
 
-# Remove Enchant Language
+# No Enchant Language
 
 Removes the Enchanting Table Language/the Galactic Alphabet from Minecraft.
 
